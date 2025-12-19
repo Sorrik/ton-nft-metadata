@@ -1,10 +1,23 @@
 {
-  "name": "Мой NFT - Оригинал",
-  "description": "Это оригинальная версия NFT для демонстрации обновления метаданных",
-  "image": "https://raw.githubusercontent.com/Sorrik/ton-nft-metadata/refs/heads/main/nft/0/original.png",
+  "name": "Мой NFT - ОБНОВЛЕНО ⭐",
+  "description": "✅ ОБНОВЛЁННАЯ версия! Метаданные изменены.",
+  "image": "https://raw.githubusercontent.com/Sorrik/ton-nft-metadata/refs/heads/main/nft/0/updated.png",
   "attributes": [
-    {"trait_type": "Версия", "value": "1.0"},
-    {"trait_type": "Статус", "value": "Оригинал"},
-    {"trait_type": "Цвет", "value": "Синий"}
+    {
+      "trait_type": "Версия",
+      "value": "2.0"
+    },
+    {
+      "trait_type": "Статус",
+      "value": "Обновлён"
+    },
+    {
+      "trait_type": "Цвет",
+      "value": "Зелёный"
+    },
+    {
+      "trait_type": "Дата",
+      "value": "2025-12-19"
+    }
   ]
 }
