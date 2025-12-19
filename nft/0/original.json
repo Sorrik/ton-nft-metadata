@@ -1,0 +1,19 @@
+{
+  "name": "Мой NFT - Оригинал",
+  "description": "Это оригинальная версия NFT для демонстрации работы с метаданными в блокчейне TON",
+  "image": "https://raw.githubusercontent.com/Sorrik/ton-nft-metadata/refs/heads/main/nft/0/original.png",
+  "attributes": [
+    {
+      "trait_type": "Версия",
+      "value": "1.0"
+    },
+    {
+      "trait_type": "Статус",
+      "value": "Оригинал"
+    },
+    {
+      "trait_type": "Цвет",
+      "value": "Синий"
+    }
+  ]
+}
