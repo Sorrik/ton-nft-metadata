@@ -1,0 +1,27 @@
+{
+  "name": "Мой NFT - ОБНОВЛЕНО ⭐",
+  "description": "✅ ОБНОВЛЁННАЯ версия NFT! Метаданные успешно изменены. Теперь с новой картинкой и атрибутами.",
+  "image": "https://raw.githubusercontent.com/Sorrik/ton-nft-metadata/main/nft/0/updated.png",
+  "attributes": [
+    {
+      "trait_type": "Версия",
+      "value": "2.0"
+    },
+    {
+      "trait_type": "Статус",
+      "value": "Обновлён"
+    },
+    {
+      "trait_type": "Цвет",
+      "value": "Зелёный"
+    },
+    {
+      "trait_type": "Редкость",
+      "value": "Редкий"
+    },
+    {
+      "trait_type": "Дата обновления",
+      "value": "2025-12-19"
+    }
+  ]
+}
