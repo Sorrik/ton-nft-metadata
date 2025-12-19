@@ -1,7 +1,7 @@
 {
   "name": "Neon Olympus",
   "description": "Ancient marble meets cyberpunk aesthetics. Classical beauty illuminated by electric dreams.",
-  "image": "https://raw.githubusercontent.com/Sorrik/ton-nft-metadata/refs/heads/main/nft/task1/nft1.png",
+  "image": "https://raw.githubusercontent.com/Sorrik/ton-nft-metadata/refs/heads/main/nft/0/nft1.png",
   "attributes": [
     {"trait_type": "Style", "value": "Synthwave"},
     {"trait_type": "Era", "value": "Ancient Greece"},
