@@ -1,1 +1,6 @@
-
+{
+  "name": "Моя NFT Коллекция",
+  "description": "Коллекция NFT для демонстрации работы с метаданными",
+  "image": "https://raw.githubusercontent.com/Sorrik/ton-nft-metadata/main/nft/0/original.png",
+  "social_links": []
+}
