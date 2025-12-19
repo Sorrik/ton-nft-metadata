@@ -1,1 +1,12 @@
-
+{
+  "name": "Cosmic Traveler",
+  "description": "Eternal wanderer floating through space and time. Death is just the beginning of the journey.",
+  "image": "https://raw.githubusercontent.com/Sorrik/ton-nft-metadata/refs/heads/main/nft/task1/nft2.png",
+  "attributes": [
+    {"trait_type": "Type", "value": "Skeleton"},
+    {"trait_type": "Location", "value": "Space"},
+    {"trait_type": "Mood", "value": "Ethereal"},
+    {"trait_type": "Element", "value": "Air"},
+    {"trait_type": "Rarity", "value": "Epic"}
+  ]
+}
