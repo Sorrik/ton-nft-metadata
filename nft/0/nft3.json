@@ -2,7 +2,7 @@
 {
   "name": "Neon Dreams",
   "description": "Lost in the city lights where reality blurs with digital fantasy. Future noir aesthetic.",
-  "image": "https://raw.githubusercontent.com/Sorrik/ton-nft-metadata/refs/heads/main/nft/task1/nft3.png",
+  "image": "https://raw.githubusercontent.com/Sorrik/ton-nft-metadata/refs/heads/main/nft/0/nft3.png",
   "attributes": [
     {"trait_type": "Genre", "value": "Cyberpunk"},
     {"trait_type": "Setting", "value": "Neo Tokyo"},
