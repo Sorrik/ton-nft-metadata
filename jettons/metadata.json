@@ -3,7 +3,7 @@
   "description": "токен, созданный в рамках лабораторной работы",
   "symbol": "STT",
   "decimals": "9",
-  "image": "https://raw.githubusercontent.com/ton-blockchain/token-contract/main/logo.png",
+  "image": "https://raw.githubusercontent.com/Sorrik/ton-nft-metadata/refs/heads/main/jettons/logo.png",
   "amount_style": "n",
   "render_type": "currency"
 }
