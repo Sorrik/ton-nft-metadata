@@ -1,0 +1,8 @@
+{
+  "name": "Lab5 Token",
+  "description": "Жетон с изображением по URL",
+  "symbol": "LAB5",
+  "decimals": "9",
+  "amount_style": "n",
+  "image": "https://raw.githubusercontent.com/Sorrik/ton-nft-metadata/main/jettons/logo.png"
+}
