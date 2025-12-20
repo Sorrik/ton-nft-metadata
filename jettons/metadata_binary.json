@@ -1,0 +1,7 @@
+{
+  "name": "Lab5 Token Binary",
+  "description": "Жетон с изображением в двоичном представлении",
+  "symbol": "LAB5BIN",
+  "decimals": "9",
+  "image": "<h>42</h><d>0123456789abcdef</d>"
+}
